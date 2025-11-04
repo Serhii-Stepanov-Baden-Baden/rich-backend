@@ -1,0 +1,20 @@
+{
+  "name": "rich-backend",
+  "version": "1.0.0",
+  "description": "RICH backend powered by ASMF — a semantic memory engine for adaptive digital agents.",
+  "main": "api/chat.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/chat.js"
+  },
+  "keywords": [
+    "RICH",
+    "ASMF",
+    "semantic-memory",
+    "digital-agent",
+    "vercel",
+    "backend"
+  ],
+  "author": "Stepanov",
+  "license": "MIT"
+}
