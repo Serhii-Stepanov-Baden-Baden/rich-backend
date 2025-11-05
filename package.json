@@ -4,9 +4,7 @@
   "description": "RICH backend powered by ASMF — a semantic memory engine for adaptive digital agents.",
   "main": "api/chat.js",
   "type": "module",
-  "scripts": {
-    "start": "node api/chat.js"
-  },
+  "scripts": {},
   "keywords": [
     "RICH",
     "ASMF",
